@@ -1,0 +1,1 @@
+'''Projekt č. 2 - engeto, python academy, cowbulls'''
